@@ -6,13 +6,13 @@ This project demonstrates how to host a WordPress website on AWS, leveraging a h
 
 The reference architecture diagram and deployment scripts are available in the [hichemg92/Hosting-a-WordPress-Website-on-AWS](#). This document outlines the key components, setup process, and scripts used in the deployment.
 
+![Alt text] (Host_a_WordPress_Website_on_AWS.png)
+
 ---
 
 ## Architecture Highlights
 
 The WordPress website is deployed using the following AWS resources and configurations:
-
-Host_a_WordPress_Website_on_AWS.png
 
 1. **Networking**
    - Configured a **Virtual Private Cloud (VPC)** with public and private subnets across two Availability Zones for fault tolerance.
