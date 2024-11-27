@@ -6,7 +6,7 @@ This project demonstrates how to host a WordPress website on AWS, leveraging a h
 
 The reference architecture diagram and deployment scripts are available in the [hichemg92/Hosting-a-WordPress-Website-on-AWS](#). This document outlines the key components, setup process, and scripts used in the deployment.
 
-![Alt text] (Host_a_WordPress_Website_on_AWS.png)
+![Alt text](Host_a_WordPress_Website_on_AWS.png)
 
 ---
 
