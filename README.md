@@ -138,14 +138,6 @@ sudo systemctl restart httpd
 
 ---
 
-## Future Enhancements
-
-- Automate deployment using **Terraform** or **CloudFormation**.
-- Integrate with **AWS CloudWatch** for advanced monitoring.
-- Implement CI/CD pipelines for continuous deployment.
-
----
-
 ## Contact
 
 For any questions or suggestions, feel free to reach out! 
