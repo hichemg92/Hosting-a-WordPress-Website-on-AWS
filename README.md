@@ -82,11 +82,7 @@ Refer to the architecture diagram in the repository: [Deployment Diagram](<Host_
    aws configure
    ```
 3. Deploy the infrastructure using the provided scripts:  
-   ```bash
-   # Example command if using Terraform or CloudFormation
-   terraform init
-   terraform apply
-   ```
+ [Scripts Directory](<Bash-Script-for-aws-launch-template>)
 
 4. Once the infrastructure is provisioned, deploy the WordPress application to the EC2 instances.
 5. Configure SSL/TLS certificates via AWS Certificate Manager.
@@ -105,8 +101,8 @@ Refer to the architecture diagram in the repository: [Deployment Diagram](<Host_
 ---
 
 ## **Resources**
-- Deployment scripts: [Scripts Directory](<insert-link-to-scripts-folder>)
-- Reference diagram: [Architecture Diagram](<insert-link-to-diagram>)
+- Deployment scripts: [Scripts Directory](<Bash-Script-for-aws-launch-template>)
+- Reference diagram: [Architecture Diagram](<Host_a_WordPress_Website_on_AWS.png>)
 - AWS Documentation:  
   - [WordPress Hosting Best Practices](https://aws.amazon.com/architecture/wordpress/)
   - [EC2 Documentation](https://docs.aws.amazon.com/ec2/)
