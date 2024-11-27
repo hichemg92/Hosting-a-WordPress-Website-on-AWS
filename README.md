@@ -12,6 +12,8 @@ The reference architecture diagram and deployment scripts are available in the [
 
 The WordPress website is deployed using the following AWS resources and configurations:
 
+Host_a_WordPress_Website_on_AWS.png
+
 1. **Networking**
    - Configured a **Virtual Private Cloud (VPC)** with public and private subnets across two Availability Zones for fault tolerance.
    - Deployed an **Internet Gateway** for internet connectivity.
